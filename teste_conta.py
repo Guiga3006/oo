@@ -1,4 +1,4 @@
-#Atividade 1 - JOÃO GABRIEL PEREIRA DE ARAUJO
+#Atividade 1 - GUILHERME PEREIRA SOUSA DE MOURA
 
 
 def criar_conta(numero, titular, saldo, limite):
